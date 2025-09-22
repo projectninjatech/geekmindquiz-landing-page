@@ -699,6 +699,31 @@ footer {
 }
 
 
+.delete-section {
+    padding: 100px 10%;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+/* Delete Account Page */
+.delete-section h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.delete-section h2 {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.delete-section p,
+.delete-section li {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+
+
 
 /* Install Guide Page */
 
